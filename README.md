@@ -1,3 +1,3 @@
 
 # Imagem go docker hub:
-    - thiagoosoares/hello-world-go
+thiagoosoares/hello-world-go
